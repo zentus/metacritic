@@ -15,10 +15,9 @@ const listNewSeasons = async (options = {}) => {
     }, [])
     .map(tr => {
       const titleElement = tr.querySelector('a.title')
-      const title = Util.normalizeTitle(titleElement.textContent)
-      const seasonReleaseElement = tr.querySelector('span:not([class="mcmust"])')
-      const seasonReleaseRaw = seasonReleaseElement.textContent.trim()
-      const seasonRelease = Util.toUnixTimestamp(seasonReleaseRaw)
+      const seasonReleaseDateElement = tr.querySelector('span:not([class="mcmust"])')
+      const seasonReleaseDateRaw = seasonReleaseDateElement.textContent.trim()
+      const seasonReleaseDate = Util.toUnixTimestamp(seasonReleaseDateRaw)
       const urlRaw = titleElement.attributes.item('href').value
       const url = Util.createUrl(urlRaw)
 
@@ -28,15 +27,14 @@ const listNewSeasons = async (options = {}) => {
       return {
         season,
         seasonPath,
-        seasonRelease,
-        seriesPath,
-        title
+        seasonReleaseDate,
+        seriesPath
       }
     })
     .map(async season => {
       return {
-        season,
-        series: await getSeries(season.seriesPath)
+        ...await getSeries(season.seriesPath),
+        nextSeason: season
       }
     })
 
