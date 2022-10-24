@@ -1,0 +1,2344 @@
+[
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1668121200000,
+      "seriesPath": "the-english",
+      "title": "The English"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Suspense"
+      ],
+      "metascore": 84,
+      "releaseDate": 1668121200000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-english",
+      "summary": "Set in the 1890s, Lady Cornelia Locke (Emily Blunt) seeks to avenge her son's death with the help of Eli Whipp (Chaske Spencer), a Pawnee ex-cavalry scout in this limited series written and directed by Hugo Blick.",
+      "title": "The English"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1668121200000,
+      "seriesPath": "mammals",
+      "title": "Mammals"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/mammals",
+      "summary": "Jamie (James Corden) recruits the help of his brother-in-law Jeff (Colin Morgan) to find the answers regarding his pregnant wife's secret in this six-part dark comedy-drama series written by Jez Butterworth.",
+      "title": "Mammals"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1667689200000,
+      "seriesPath": "mood",
+      "title": "Mood"
+    },
+    "series": {
+      "distributors": [
+        "BBC America",
+        "BBC Three",
+        "AMC+"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1667689200000,
+      "seriesUrl": "https://www.metacritic.com/tv/mood",
+      "summary": "20-something Sasha's (Nicôle Lecky) desire to be a singer leads her to the world of online influencers and a more dangerous path in this adaptation of Nicôle Lecky's 2019 stage monologue Superhoe.\n\n[Premiered originally in the UK on BBC Three on 1 Mar 2022 and in the US on AMC+/BBC America on 6 Nov 2022]",
+      "title": "Mood"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1666648800000,
+      "seriesPath": "karen-pirie",
+      "title": "Karen Pirie"
+    },
+    "series": {
+      "distributors": [
+        "BritBox"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 84,
+      "releaseDate": 1666648800000,
+      "seriesUrl": "https://www.metacritic.com/tv/karen-pirie",
+      "summary": "Scottish police detective DS Karen Pirie (Karen Pirie) investigates a 25-year-old cold case in this British crime series based on Val McDermid's novels.",
+      "title": "Karen Pirie"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1666648800000,
+      "seriesPath": "guillermo-del-toros-cabinet-of-curiosities",
+      "title": "Guillermo del Toro's Cabinet of Curiosities"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "metascore": 84,
+      "releaseDate": 1666648800000,
+      "seriesUrl": "https://www.metacritic.com/tv/guillermo-del-toros-cabinet-of-curiosities",
+      "summary": "The horror anthology series from Oscar-winning director Guillermo Del Toro features two originals from Del Toro and two based on short stories by H.P. Lovecraft.",
+      "title": "Guillermo del Toro's Cabinet of Curiosities"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1666303200000,
+      "seriesPath": "from-scratch",
+      "title": "From Scratch"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 84,
+      "releaseDate": 1666303200000,
+      "seriesUrl": "https://www.metacritic.com/tv/from-scratch",
+      "summary": "American student Amahle \"Amy\" Wheeler (Zoe Saldaña) and Sicilian chef Lino (Eugenio Mastrandrea) overcome a number of obstacles to their love in this limited series based on Tembi Locke's memoir of the same name.",
+      "title": "From Scratch"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1666303200000,
+      "seriesPath": "the-peripheral",
+      "title": "The Peripheral"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Science Fiction"
+      ],
+      "metascore": 83,
+      "releaseDate": 1666303200000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-peripheral",
+      "summary": "Flynne Fisher (Chloe Grace Moretz) earns extra money playing VR games for others and one night she finds herself in a futuristic London that is not a game but real life in this adaptation of William Gibson sci-fi novel of the same name.",
+      "title": "The Peripheral"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665871200000,
+      "seriesPath": "magpie-murders",
+      "title": "Magpie Murders"
+    },
+    "series": {
+      "distributors": [
+        "PBS",
+        "BritBox"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665871200000,
+      "seriesUrl": "https://www.metacritic.com/tv/magpie-murders",
+      "summary": "Book editor Susan Ryeland's (Leslie Manville) search for the missing final chapter to an unfinished mystery manuscript leads to a real murder case in this adaptation of Anthony Horowitz's novel of the same name.\n\n[Premiered originally in the UK on BritBox on 10 Feb 2022 and in the US as a part of PBS' Masterpiece on 16 Oct 2022]",
+      "title": "Magpie Murders"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665871200000,
+      "seriesPath": "annika",
+      "title": "Annika"
+    },
+    "series": {
+      "distributors": [
+        "PBS"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665871200000,
+      "seriesUrl": "https://www.metacritic.com/tv/annika",
+      "summary": "DI Annika Strandhed (Nicola Walker) balances investigating cases for Glasgow's new Marine Homicide Unit and raising her teenage daughter in this crime drama based on the BBC Radio 4 drama, Annika Stranded.\n\n[Premiered originally in the UK on Alibi on 17 Aug 2021 and set to air in the US as a part of PBS' Masterpiece on 16 Oct 2022]",
+      "title": "Annika"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665698400000,
+      "seriesPath": "high-school",
+      "title": "High School"
+    },
+    "series": {
+      "distributors": [
+        "Amazon Freevee"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665698400000,
+      "seriesUrl": "https://www.metacritic.com/tv/high-school",
+      "summary": "Twins Tegan and Sara Quin (Railey Gilliland and Seazynn Gilliland) struggle with high school and identity in this series based on the Quin's memoir of the same name.",
+      "title": "High School"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665698400000,
+      "seriesPath": "shantaram",
+      "title": "Shantaram"
+    },
+    "series": {
+      "distributors": [
+        "APPLE TV+"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665698400000,
+      "seriesUrl": "https://www.metacritic.com/tv/shantaram",
+      "summary": "A fugitive from the law, Lin Ford (Charlie Hunnam) must choose between freedom or love with a woman he meets in 1980s Bombay in this series based on the novel of the same name by Gregory David Roberts.",
+      "title": "Shantaram"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665612000000,
+      "seriesPath": "the-watcher-2022",
+      "title": "The Watcher"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Horror",
+        "Suspense"
+      ],
+      "metascore": 86,
+      "releaseDate": 1665612000000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-watcher-2022",
+      "summary": "Based on a true story, Dean (Bobby Cannavale) and Nora Brannock (Naomi Watts) discover their dream house has a very unwelcoming neighborhood, including  letters about someone watching them in this thriller series created by Ryan Murphy and Ian Brennan.",
+      "title": "The Watcher"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665612000000,
+      "seriesPath": "the-playlist",
+      "title": "The Playlist"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Music"
+      ],
+      "metascore": 84,
+      "releaseDate": 1665612000000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-playlist",
+      "summary": "The development of Spotify led by Daniel Ek (Edvin Endre) is dramatized in this Swedish six-part limited series.",
+      "title": "The Playlist"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665525600000,
+      "seriesPath": "i-love-you-you-hate-me",
+      "title": "I Love You, You Hate Me"
+    },
+    "series": {
+      "distributors": [
+        "Peacock"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665525600000,
+      "seriesUrl": "https://www.metacritic.com/tv/i-love-you-you-hate-me",
+      "summary": "The two-part documentary series explores how Barney, the purple singing dinosaur became a target of hate.",
+      "title": "I Love You, You Hate Me"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665439200000,
+      "seriesPath": "the-winchesters",
+      "title": "The Winchesters"
+    },
+    "series": {
+      "distributors": [
+        "The CW"
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665439200000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-winchesters",
+      "summary": "The prequel to \"Supernatural\" tells the story of how John (Drake Rodger) and Mary Winchester (Meg Donnelly) fell in love as they fought demons with fellow hunters Latika (Nida Khurshid) and Carlos (Jonathan \"Jojo\" Fleites).",
+      "title": "The Winchesters"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665439200000,
+      "seriesPath": "professionals",
+      "title": "Professionals"
+    },
+    "series": {
+      "distributors": [
+        "The CW"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665439200000,
+      "seriesUrl": "https://www.metacritic.com/tv/professionals",
+      "summary": "Vincent Corbo (Tom Welling) and his security team are hired by billionaire Peter Swann (Brendan Fraser) to protect his interests.",
+      "title": "Professionals"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665266400000,
+      "seriesPath": "let-the-right-one-in",
+      "title": "Let the Right One In"
+    },
+    "series": {
+      "distributors": [
+        "SHOWTIME"
+      ],
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665266400000,
+      "seriesUrl": "https://www.metacritic.com/tv/let-the-right-one-in",
+      "summary": "Mark (Demián Bichir) tries to provide enough blood for his daughter (Madison Taylor Baez) who was turned into a vampire 10 years ago as a 12-year-old in this series inspired by John Ajvide Lindqvist's Swedish novel and the 2008 film of the same name.",
+      "title": "Let the Right One In"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665093600000,
+      "seriesPath": "fire-country",
+      "title": "Fire Country"
+    },
+    "series": {
+      "distributors": [
+        "CBS"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665093600000,
+      "seriesUrl": "https://www.metacritic.com/tv/fire-country",
+      "summary": "Bode Donovan (Max Thieriot) looks to shorten his prison sentence by volunteering to be part of an inmate firefighting program, but feels uneasy when assigned to work in his hometown.",
+      "title": "Fire Country"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665093600000,
+      "seriesPath": "the-mole-2022",
+      "title": "The Mole"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Reality"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665093600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-mole-2022",
+      "summary": "12 contestants complete challenges to add money to the final prize but also must try to figure out who is the \"mole\" that is trying to thwart their efforts in this reboot of the 2000s ABC reality show hosted by Alex Wagner.",
+      "title": "The Mole"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665093600000,
+      "seriesPath": "werewolf-by-night",
+      "title": "Werewolf by Night"
+    },
+    "series": {
+      "distributors": [
+        "Disney+"
+      ],
+      "genres": [
+        "Drama",
+        "Events & Specials"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665093600000,
+      "seriesUrl": "https://www.metacritic.com/tv/werewolf-by-night",
+      "summary": "After the death of their leader, a group of monster hunters, including werewolf Jack Russell (Gael García Bernal), are sent on a deadly competition to find a relic weapon in this special directed by Michael Giacchino.",
+      "title": "Werewolf by Night"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665093600000,
+      "seriesPath": "conversations-with-a-killer-the-jeffrey-dahmer-tapes",
+      "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665093600000,
+      "seriesUrl": "https://www.metacritic.com/tv/conversations-with-a-killer-the-jeffrey-dahmer-tapes",
+      "summary": "Joe Berlinger's third Conversations with a Killer's series features audio interview tapes of Jeffrey Dahmer recorded by his attorneys.",
+      "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665093600000,
+      "seriesPath": "the-midnight-club",
+      "title": "The Midnight Club"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "metascore": 84,
+      "releaseDate": 1665093600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-midnight-club",
+      "summary": "A group terminally ill teenagers (Adia, Igby Rigney, Ruth Codd, William Chris Sumpter, Aya Furukawa, Annarah Shephard and Sauriyan Sapkota) at a hospice meet at midnight to tell each other scary tales in this series adaptation of on Christopher Pike's novel of the same name from Mike Flanagan and Leah Fong.",
+      "title": "The Midnight Club"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665007200000,
+      "seriesPath": "a-friend-of-the-family",
+      "title": "A Friend of the Family"
+    },
+    "series": {
+      "distributors": [
+        "Peacock"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665007200000,
+      "seriesUrl": "https://www.metacritic.com/tv/a-friend-of-the-family",
+      "summary": "Nick Antosca's limited series based on the true story of the Broberg family centers on how Jan Broberg (Mckenna Grace) was kidnapped multiple times over several years by family friend Robert \"B\" Berchtold (Jake Lacy).",
+      "title": "A Friend of the Family"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665007200000,
+      "seriesPath": "walker-independence",
+      "title": "Walker: Independence"
+    },
+    "series": {
+      "distributors": [
+        "The CW"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665007200000,
+      "seriesUrl": "https://www.metacritic.com/tv/walker-independence",
+      "summary": "Set in late 1800s, Bostonian Abby Walker (Katherine McNamara) seeks the killer of her husband in Independence, Texas, where she meets con artist Hoyt Rawlins (Matt Barr), Apache tracker Calian (Justin Johnson Cortez), dancer Kate Carver (Katie Findlay), Chinese immigrant Kai (Lawrence Kao), deputy sheriff Augustus (Philemon Chambers), andSet in late 1800s, Bostonian Abby Walker (Katherine McNamara) seeks the killer of her husband in Independence, Texas, where she meets con artist Hoyt Rawlins (Matt Barr), Apache tracker Calian (Justin Johnson Cortez), dancer Kate Carver (Katie Findlay), Chinese immigrant Kai (Lawrence Kao), deputy sheriff Augustus (Philemon Chambers), and Sheriff Tom Davidson (Greg Hovanessian) in this \"Walker\" prequel series.… Expand",
+      "title": "Walker: Independence"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1665007200000,
+      "seriesPath": "alaska-daily",
+      "title": "Alaska Daily"
+    },
+    "series": {
+      "distributors": [
+        "ABC"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1665007200000,
+      "seriesUrl": "https://www.metacritic.com/tv/alaska-daily",
+      "summary": "After making a career-ending mistake, New York investigative journalist Eileen Fitzgerald (Hilary Swank) starts over working at a newspaper in  Anchorage in this drama series from Tom McCarthy.",
+      "title": "Alaska Daily"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664920800000,
+      "seriesPath": "reginald-the-vampire",
+      "title": "Reginald the Vampire"
+    },
+    "series": {
+      "distributors": [
+        "SyFy"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action & Adventure",
+        "Fantasy",
+        "Horror"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664920800000,
+      "seriesUrl": "https://www.metacritic.com/tv/reginald-the-vampire",
+      "summary": "Newly turned vampire, Reginald Andres (Jacob Batalon) deals with being bullied by his manager, being in love with a human and the vampire chieftain who wants to kill him in this adaptation of Johnny B. Truant's Fat Vampire book series from Harley Peyton.",
+      "title": "Reginald the Vampire"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664834400000,
+      "seriesPath": "hasan-minhaj-the-kings-jester",
+      "title": "Hasan Minhaj: The King's Jester"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Comedy",
+        "Events & Specials"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664834400000,
+      "seriesUrl": "https://www.metacritic.com/tv/hasan-minhaj-the-kings-jester",
+      "summary": "The second comedy special on Netflix for Hasan Minhaj was filmed at the Brooklyn Academy of Music.",
+      "title": "Hasan Minhaj: The King's Jester"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664834400000,
+      "seriesPath": "sherwood",
+      "title": "Sherwood"
+    },
+    "series": {
+      "distributors": [
+        "BBC One",
+        "BritBox"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664834400000,
+      "seriesUrl": "https://www.metacritic.com/tv/sherwood",
+      "summary": "In the British village of Sherwood, DCS Ian St Clair (David Morrissey) investigation into the murder of a local may be related to the 1980s miners strike and brings the arrival of Metropolitan Police DI Kevin Salisbury (Robert Glenister) in this crime drama created by James Graham.\n\n[Premiered originally in the UK on ITV on 13 Jun 2022In the British village of Sherwood, DCS Ian St Clair (David Morrissey) investigation into the murder of a local may be related to the 1980s miners strike and brings the arrival of Metropolitan Police DI Kevin Salisbury (Robert Glenister) in this crime drama created by James Graham.\n\n[Premiered originally in the UK on ITV on 13 Jun 2022 and in the US on BritBox on 4 Oct 2022]… Expand",
+      "title": "Sherwood"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664661600000,
+      "seriesPath": "east-new-york",
+      "title": "East New York"
+    },
+    "series": {
+      "distributors": [
+        "CBS"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Suspense"
+      ],
+      "metascore": 86,
+      "releaseDate": 1664661600000,
+      "seriesUrl": "https://www.metacritic.com/tv/east-new-york",
+      "summary": "Deputy Inspector Regina Haywood (Amanda Warren) takes over the 74th Precinct and with help from her mentor Chief John Suarez (Jimmy Smits) and her police squad as she seeks to change how the community and police interact.",
+      "title": "East New York"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664661600000,
+      "seriesPath": "family-law-2022",
+      "title": "Family Law"
+    },
+    "series": {
+      "distributors": [
+        "The CW",
+        "Global TV"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "metascore": 84,
+      "releaseDate": 1664661600000,
+      "seriesUrl": "https://www.metacritic.com/tv/family-law-2022",
+      "summary": "After losing her job, Abigail \"Abby\" Bianch (Jewel Staite) returns home to Vancouver to work at her estranged father's (Victor Garber) law firm with her two half-siblings in this Canadian series.\n\n[Premiered originally in Canada on Global TV on 16 Sep 2021 and set to air in the US on The CW on 2 Oct 2022]",
+      "title": "Family Law"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664661600000,
+      "seriesPath": "interview-with-the-vampire",
+      "title": "Interview With the Vampire"
+    },
+    "series": {
+      "distributors": [
+        "AMC",
+        "AMC+"
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "metascore": 84,
+      "releaseDate": 1664661600000,
+      "seriesUrl": "https://www.metacritic.com/tv/interview-with-the-vampire",
+      "summary": "Louis de Pointe (Jacob Anderson) tells a reporter about his life in 1900s New Orleans, becoming a vampire companion to Lestat De Lioncourt (Sam Reid) and the arrival of child vampire Claudia (Bailey Bass) in the series adaptation of Anne Rice's novel of the same name.",
+      "title": "Interview With the Vampire"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664488800000,
+      "seriesPath": "jungle",
+      "title": "Jungle"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664488800000,
+      "seriesUrl": "https://www.metacritic.com/tv/jungle",
+      "summary": "British rap and drill music play a part in this series where Gogo (Ezra Elliott) and Slim (RA) are some of the young people who struggle with a number of issues in London.",
+      "title": "Jungle"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664488800000,
+      "seriesPath": "entergalactic",
+      "title": "Entergalactic"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Music"
+      ],
+      "metascore": 84,
+      "releaseDate": 1664488800000,
+      "seriesUrl": "https://www.metacritic.com/tv/entergalactic",
+      "summary": "Young artist Jabari (voiced by Scott \"Kid Cudi\" Mescudi) moves to New York City where he meets a successful photographer (voiced by Jessica Williams) in this animated series co-created by Kid Cudi and Ian Edelman.",
+      "title": "Entergalactic"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664402400000,
+      "seriesPath": "so-help-me-todd",
+      "title": "So Help Me Todd"
+    },
+    "series": {
+      "distributors": [
+        "CBS"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664402400000,
+      "seriesUrl": "https://www.metacritic.com/tv/so-help-me-todd",
+      "summary": "Attorney Margaret Wright (Marcia Gay Harden) hires her aimless ex-private detective son (Skylar Astin) as her law firm's in-house investigator in this legal drama created by Scott Prendergast.",
+      "title": "So Help Me Todd"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664316000000,
+      "seriesPath": "eat-the-rich-the-gamestop-saga",
+      "title": "Eat the Rich: The GameStop Saga"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664316000000,
+      "seriesUrl": "https://www.metacritic.com/tv/eat-the-rich-the-gamestop-saga",
+      "summary": "The three-part documentary series looks into the phenomenon of GameStop's stock in 2021 and features interviews with journalists, hedge fund managers and members of Reddit's wallstreetbets community.",
+      "title": "Eat the Rich: The GameStop Saga"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664316000000,
+      "seriesPath": "hostages-2022",
+      "title": "Hostages"
+    },
+    "series": {
+      "distributors": [
+        "HBO"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664316000000,
+      "seriesUrl": "https://www.metacritic.com/tv/hostages-2022",
+      "summary": "The four-part documentary series focuses on what led to the Iran Hostage Crisis of 1979 and its effects on international relations as well as those involved.",
+      "title": "Hostages"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664229600000,
+      "seriesPath": "the-rookie-feds",
+      "title": "The Rookie: Feds"
+    },
+    "series": {
+      "distributors": [
+        "ABC"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664229600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-rookie-feds",
+      "summary": "FBI rookie Simone Clark (Niecy Nash-Betts) is paired with by-the-books FBI agent Carter Hope (James Lesure) in the spinoff of \"The Rookie.\"",
+      "title": "The Rookie: Feds"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664229600000,
+      "seriesPath": "suspect",
+      "title": "Suspect"
+    },
+    "series": {
+      "distributors": [
+        "Channel 4",
+        "BritBox"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664229600000,
+      "seriesUrl": "https://www.metacritic.com/tv/suspect",
+      "summary": "Detective Danny Frater (James Nesbitt) discovers an unidentified body is his daughter and seeks to find her killer in this British crime drama based on the Danish series Forhøret.\n\n[Premiered originally in the UK on Channel 4 on 19 Jun 2022 and in the US on BritBox on 27 Sep 2022]",
+      "title": "Suspect"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664229600000,
+      "seriesPath": "reasonable-doubt-2022",
+      "title": "Reasonable Doubt"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664229600000,
+      "seriesUrl": "https://www.metacritic.com/tv/reasonable-doubt-2022",
+      "summary": "Los Angeles defense attorney Jax Stewart (Emayatzy Corinealdi) is at the center of this legal drama executive produced by Kerry Washington.",
+      "title": "Reasonable Doubt"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664143200000,
+      "seriesPath": "inside-man-2022",
+      "title": "Inside Man"
+    },
+    "series": {
+      "distributors": [
+        "BBC",
+        "Netflix",
+        "BBC One"
+      ],
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/inside-man-2022",
+      "summary": "A misunderstanding between vicar Harry Watling (David Tennant) and a math tutor (Dolly Wells) leads journalist Beth Davenport (Lydia West) to American death row inmate Jefferson Grieff (Stanley Tucci) in this drama from Steven Moffat.\n\n[Premiered originally in the UK on BBC One on 26 Sep 2022 and in the US on Netflix on 31 Oct 2022]",
+      "title": "Inside Man"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1664056800000,
+      "seriesPath": "the-murdochs-empire-of-influence",
+      "title": "The Murdochs: Empire of Influence"
+    },
+    "series": {
+      "distributors": [
+        "CNN"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Business",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1664056800000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-murdochs-empire-of-influence",
+      "summary": "The seven-part documentry series about Rupert Murdoch and his family's media empire was based on the New York Magazine article by Jonathan Mahler and Jim Rutenberg.",
+      "title": "The Murdochs: Empire of Influence"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663797600000,
+      "seriesPath": "thai-cave-rescue",
+      "title": "Thai Cave Rescue"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Action & Adventure",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663797600000,
+      "seriesUrl": "https://www.metacritic.com/tv/thai-cave-rescue",
+      "summary": "The limited series focuses on the 12 boys from a Thai youth football (soccer) team, their coach and the efforts to rescued them in 2018 from the flooded Tham Luang caves.",
+      "title": "Thai Cave Rescue"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663711200000,
+      "seriesPath": "dahmer---monster-the-jeffrey-dahmer-story",
+      "title": "Dahmer - Monster: The Jeffrey Dahmer Story"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 84,
+      "releaseDate": 1663711200000,
+      "seriesUrl": "https://www.metacritic.com/tv/dahmer---monster-the-jeffrey-dahmer-story",
+      "summary": "The 10-part limited series centers on Jeffrey Dahmer's (Evan Peters) life, his victims and the police who failed to capture him for over a decade.",
+      "title": "Dahmer - Monster: The Jeffrey Dahmer Story"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663711200000,
+      "seriesPath": "the-real-bling-ring-hollywood-heist",
+      "title": "The Real Bling Ring: Hollywood Heist"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663711200000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-real-bling-ring-hollywood-heist",
+      "summary": "The three-part documentry series features interviews with Nick Purgo and Alexis Neiers as well as reenactments to illustrate how they began their theft from the homes of Hollywood stars and were caught.",
+      "title": "The Real Bling Ring: Hollywood Heist"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663711200000,
+      "seriesPath": "shadowland",
+      "title": "Shadowland"
+    },
+    "series": {
+      "distributors": [
+        "Peacock"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/shadowland",
+      "summary": "Conspiracy theorists are profiled in this six-part documentary series that explores how conspiracy theories take hold of some people.",
+      "title": "Shadowland"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663711200000,
+      "seriesPath": "andor",
+      "title": "Andor"
+    },
+    "series": {
+      "distributors": [
+        "Disney+"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Science Fiction"
+      ],
+      "metascore": 86,
+      "releaseDate": 1663711200000,
+      "seriesUrl": "https://www.metacritic.com/tv/andor",
+      "summary": "The prequel Star War series follows Cassian Andor's (Diego Luna) journey to become the Rebel leader first introduced in 2016's Rogue One.",
+      "title": "Andor"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663624800000,
+      "seriesPath": "reboot-2022",
+      "title": "Reboot"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663624800000,
+      "seriesUrl": "https://www.metacritic.com/tv/reboot-2022",
+      "summary": "Reed (Keegan-Michael Key), Clay (Johnny Knoxville), Bree (Judy Greer), and Zack (Calum Worthy) are reluctantly reunited for a reboot of their 2000 sitcom in this comedy series created by Steven Levitan.",
+      "title": "Reboot"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663538400000,
+      "seriesPath": "quantum-leap-2022",
+      "title": "Quantum Leap"
+    },
+    "series": {
+      "distributors": [
+        "NBC"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Science Fiction"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663538400000,
+      "seriesUrl": "https://www.metacritic.com/tv/quantum-leap-2022",
+      "summary": "Physicist Ben Seong (Raymond Lee) takes an unauthorized leap into the past leaving behind the team that helped him restart the Quantum Leap accelerator project 30 years after Dr. Sam Beckett disappeared.",
+      "title": "Quantum Leap"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663452000000,
+      "seriesPath": "the-us-and-the-holocaust",
+      "title": "The U.S. and the Holocaust"
+    },
+    "series": {
+      "distributors": [
+        "PBS"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663452000000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-us-and-the-holocaust",
+      "summary": "Narrated by Peter Coyote, the three-part documentry series directed by Ken Burns, Lynn Novick and Sarah Botstein examines the United States' response to the rise of Nazism and the Holocaust through interviews, first-person accounts and archival footage.",
+      "title": "The U.S. and the Holocaust"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663192800000,
+      "seriesPath": "vampire-academy-2022",
+      "title": "Vampire Academy"
+    },
+    "series": {
+      "distributors": [
+        "Peacock"
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663192800000,
+      "seriesUrl": "https://www.metacritic.com/tv/vampire-academy-2022",
+      "summary": "Vampire-human hybrid Rosemarie Hathaway (Sisi Stringer) and her Moroi  vampire best friend Princess Vasilisa \"Lissa\" Dragomir (Daniela Nieves) are some of the students at St Vladimir's Academy in Julie Plec and Marguerite MacIntyre's adaptation of Richelle Mead's book series of the same name.",
+      "title": "Vampire Academy"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663106400000,
+      "seriesPath": "sins-of-our-mother",
+      "title": "Sins of our Mother"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/sins-of-our-mother",
+      "summary": "The three-part Skye Borgman documentary series looks at the what was a missing children's case where Lori Vallow and her husband refused to answer questions that soon became multiple murder investigations.",
+      "title": "Sins of our Mother"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663106400000,
+      "seriesPath": "heartbreak-high-2022",
+      "title": "Heartbreak High"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663106400000,
+      "seriesUrl": "https://www.metacritic.com/tv/heartbreak-high-2022",
+      "summary": "The reboot of the Australian 1990s teen series centers on Hartley High best friends Amerie (Ayesha Madon) and Harper (Asher Yasbincek).",
+      "title": "Heartbreak High"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663020000000,
+      "seriesPath": "cyberpunk-edgerunners",
+      "title": "Cyberpunk: Edgerunners"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Science Fiction"
+      ],
+      "metascore": 84,
+      "releaseDate": 1663020000000,
+      "seriesUrl": "https://www.metacritic.com/tv/cyberpunk-edgerunners",
+      "summary": "Set in the future, teenager David Martinez travels to Night City where he becomes an edgerunner — a mercenary outlaw also known as a cyberpunk in this anime series from CD PROJEKT RED and Studio Trigger.",
+      "title": "Cyberpunk: Edgerunners"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1663020000000,
+      "seriesPath": "the-come-up",
+      "title": "The Come Up"
+    },
+    "series": {
+      "distributors": [
+        "Freeform"
+      ],
+      "genres": [
+        "Reality"
+      ],
+      "metascore": 83,
+      "releaseDate": 1663020000000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-come-up",
+      "summary": "The reality series follows six Gen Z New Yorkers as they seek love and continue their goals in modeling, fashion design, photography, acting and nightlife organizing.",
+      "title": "The Come Up"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662933600000,
+      "seriesPath": "the-jennifer-hudson-show",
+      "title": "The Jennifer Hudson Show"
+    },
+    "series": {
+      "distributors": [
+        "Syndicated"
+      ],
+      "genres": [
+        "Comedy",
+        "Variety Shows",
+        "Reality",
+        "Talk & Interview"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662933600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-jennifer-hudson-show",
+      "summary": "The daytime talk show hosted by actress/singer Jennifer Hudson features interviews and music performances.",
+      "title": "The Jennifer Hudson Show"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662847200000,
+      "seriesPath": "monarch",
+      "title": "Monarch"
+    },
+    "series": {
+      "distributors": [
+        "FOX"
+      ],
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662847200000,
+      "seriesUrl": "https://www.metacritic.com/tv/monarch",
+      "summary": "The legacy of country music legends Dottie Cantrell Roman (Susan Sarandon) and Albie Roman (Trace Adkins) is threatened and their daughter (Anna Friel) will do everything to protect it in this drama series created by Melissa London Hilfers.",
+      "title": "Monarch"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662847200000,
+      "seriesPath": "the-serpent-queen",
+      "title": "The Serpent Queen"
+    },
+    "series": {
+      "distributors": [
+        "Starz"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662847200000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-serpent-queen",
+      "summary": "Catherine de Medici (Samantha Morton) tells how she rose to power after being married off at the age of 14 to a French count in this drama series based on Leonie Frieda's book \"Catherine de Medici: Renaissance Queen of France.\"",
+      "title": "The Serpent Queen"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662674400000,
+      "seriesPath": "copenhagen-cowboy",
+      "title": "Copenhagen Cowboy"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/copenhagen-cowboy",
+      "summary": "Miu (Angela Bundalovic), a young woman with supernatural gifts, travels to Copenhagen to find out about her past and seek justice in this six-part series from Nicolas Winding Refn.\n\n[Premiered at the Venice Film Festival on 9 Sep 2022; set to air in the US on Netflix sometime in 2022]",
+      "title": "Copenhagen Cowboy"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662674400000,
+      "seriesPath": "american-gigolo",
+      "title": "American Gigolo"
+    },
+    "series": {
+      "distributors": [
+        "SHOWTIME"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662847200000,
+      "seriesUrl": "https://www.metacritic.com/tv/american-gigolo",
+      "summary": "Julian Kaye (Jon Bernthal) tries to restart his life and find who is responsible for his wrongful conviction for murder after being released from a 15-year jail sentence in this series reimagining of the 1980 movie of the same name.\n\n[Premieres on the Showtime app and on-demand on 9 Sep 2022 and on the Showtime network on 11 Sep 2022]",
+      "title": "American Gigolo"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662674400000,
+      "seriesPath": "gutsy",
+      "title": "Gutsy"
+    },
+    "series": {
+      "distributors": [
+        "APPLE TV+"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Talk & Interview",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/gutsy",
+      "summary": "Dr. Jane Goodall, Goldie Hawn, Kate Hudson, Kim Kardashian, Megan Thee Stallion, Amy Schumer, Gloria Steinem, and Wanda Sykes are some the women Hillary and Chelsea Clinton talk to in this documentary series based on their book, The Book of Gutsy Women.",
+      "title": "Gutsy"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662588000000,
+      "seriesPath": "last-light",
+      "title": "Last Light"
+    },
+    "series": {
+      "distributors": [
+        "Peacock"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662588000000,
+      "seriesUrl": "https://www.metacritic.com/tv/last-light",
+      "summary": "Oil engineer Andy Yeats (Matthew Fox) is in the Middle East when a global energy crisis causes chaos around the world in this limited thriller series based on Alex Scarrow's novel of the same name.",
+      "title": "Last Light"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662588000000,
+      "seriesPath": "wedding-season",
+      "title": "Wedding Season"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Comedy",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662588000000,
+      "seriesUrl": "https://www.metacritic.com/tv/wedding-season",
+      "summary": "At Katie's (Rosa Salazar) wedding, her husband and seven guests are murdered. The police suspect her lover (Gavin Drea) of two months, but he thinks she did it in this comedic series written by Oliver Lyttelton.",
+      "title": "Wedding Season"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662501600000,
+      "seriesPath": "tell-me-lies",
+      "title": "Tell Me Lies"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662501600000,
+      "seriesUrl": "https://www.metacritic.com/tv/tell-me-lies",
+      "summary": "The eight-year relationship between Lucy Albright (Grace Van Patten) and Stephen DeMarco (Stephen DeMarco) becomes more toxic over the years in this adaptation of Carola Lovering's novel of the same name.",
+      "title": "Tell Me Lies"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662069600000,
+      "seriesPath": "the-lord-of-the-rings-the-rings-of-power",
+      "title": "The Lord of the Rings: The Rings of Power"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Fantasy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662069600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-lord-of-the-rings-the-rings-of-power",
+      "summary": "The series is set several millennia before the events of J.R.R. Tolkien's The Hobbit and The Lord of the Rings when the rings of power were forged by Sauron.",
+      "title": "The Lord of the Rings: The Rings of Power"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662069600000,
+      "seriesPath": "devil-in-ohio",
+      "title": "Devil in Ohio"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Horror",
+        "Suspense"
+      ],
+      "metascore": 86,
+      "releaseDate": 1662069600000,
+      "seriesUrl": "https://www.metacritic.com/tv/devil-in-ohio",
+      "summary": "Psychiatrist Dr. Suzanne Mathis (Emily Deschanel) takes in a young girl (Madeleine Arthur) who escaped from a cult in this thriller limited series based on Daria Polatin's book of the same name.",
+      "title": "Devil in Ohio"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1662069600000,
+      "seriesPath": "house-of-hammer",
+      "title": "House of Hammer"
+    },
+    "series": {
+      "distributors": [
+        "Discovery+"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1662069600000,
+      "seriesUrl": "https://www.metacritic.com/tv/house-of-hammer",
+      "summary": "The alleged sexual assaults by actor Armie Hammer and the Hammer family are at the center of three-part documentry series that features interviews with his accuser Courtney Vucekovich, attorney Gloria Allred, and his estranged aunt, Casey Hammer.",
+      "title": "House of Hammer"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661983200000,
+      "seriesPath": "pantheon",
+      "title": "Pantheon"
+    },
+    "series": {
+      "distributors": [
+        "AMC+"
+      ],
+      "genres": [
+        "Animation",
+        "Drama",
+        "Science Fiction"
+      ],
+      "metascore": 83,
+      "releaseDate": null,
+      "seriesUrl": "https://www.metacritic.com/tv/pantheon",
+      "summary": "Bullied teen Maddie (voiced by Katie Chang) gets help online from her recently deceased father (voiced by Daniel Dae Kim), whose consciousness has been uploaded to the Cloud after an experimental brain scan in this animated sci-fi series based on short stories by Ken Liu.",
+      "title": "Pantheon"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661810400000,
+      "seriesPath": "the-patient",
+      "title": "The Patient"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Horror",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661810400000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-patient",
+      "summary": "Psychotherapist Alan Strauss (Steve Carell) is held prisoner by his patient Sam Fortner (Domhnall Gleeson), who divulges he's a serial killer and wants Alan to stop his deadly impulses in this limited series from Joel Fields and Joe Weisberg.",
+      "title": "The Patient"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661724000000,
+      "seriesPath": "the-suspect",
+      "title": "The Suspect"
+    },
+    "series": {
+      "distributors": [
+        "ITV",
+        "Sundance Now"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661724000000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-suspect",
+      "summary": "Psychologist Dr. Joe O'Loughlin (Aidan Turner) helps the police on a case of murdered girl found in a shallow grave in this five-part thriller based on Michael Robotham's novel of the same name.\n\n[Premiered originally in the UK on ITV on 29 Aug 2022 and in the US on Sundance Now/AMC+ on 3 Nov 2022]",
+      "title": "The Suspect"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661464800000,
+      "seriesPath": "partner-track",
+      "title": "Partner Track"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661464800000,
+      "seriesUrl": "https://www.metacritic.com/tv/partner-track",
+      "summary": "Ingrid's (Arden Cho) ambitions to be named partner at a law firm battle with her morals, family expectations and romance in this drama series based on Helen Wan's novel of the same name.",
+      "title": "Partner Track"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661378400000,
+      "seriesPath": "mike",
+      "title": "Mike"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Drama",
+        "Sports",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661378400000,
+      "seriesUrl": "https://www.metacritic.com/tv/mike",
+      "summary": "The life and career of boxer Mike Tyson (Trevante Rhodes) is dramatized in an eight-part limited series created by Steven Rogers.",
+      "title": "Mike"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661378400000,
+      "seriesPath": "everything-i-know-about-love",
+      "title": "Everything I Know About Love"
+    },
+    "series": {
+      "distributors": [
+        "BBC Three",
+        "Peacock"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661378400000,
+      "seriesUrl": "https://www.metacritic.com/tv/everything-i-know-about-love",
+      "summary": "Set in 2012, best friends Maggie (Emma Appleton) and Birdy (Bel Powley) have moved to London where they juggle work and relationships post-university with with friends Amara and Nell in this fictional adaptation of Dolly Alderton's memoir of the same name.\n\n[Premiered originally in the UK on BBC Three on 7 Jun 2022 and in the US onSet in 2012, best friends Maggie (Emma Appleton) and Birdy (Bel Powley) have moved to London where they juggle work and relationships post-university with with friends Amara and Nell in this fictional adaptation of Dolly Alderton's memoir of the same name.\n\n[Premiered originally in the UK on BBC Three on 7 Jun 2022 and in the US on Peacock on 25 Aug 2022]… Expand",
+      "title": "Everything I Know About Love"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661378400000,
+      "seriesPath": "little-demon",
+      "title": "Little Demon"
+    },
+    "series": {
+      "distributors": [
+        "FXX"
+      ],
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Action & Adventure",
+        "Horror"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661378400000,
+      "seriesUrl": "https://www.metacritic.com/tv/little-demon",
+      "summary": "Laura (Aubrey Plaza) and her daughter Chrissy (Lucy DeVito) have to deal with numerous foes including Chrissy's father, Satan (Danny DeVito), who wants her soul as they try to lead a normal life in Delaware in this animated horror comedy from Darcy Fowler, Seth Kirschner and Kieran Valla.",
+      "title": "Little Demon"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661292000000,
+      "seriesPath": "welcome-to-wrexham",
+      "title": "Welcome to Wrexham"
+    },
+    "series": {
+      "distributors": [
+        "FX"
+      ],
+      "genres": [
+        "Sports",
+        "Documentary"
+      ],
+      "metascore": 86,
+      "releaseDate": 1661292000000,
+      "seriesUrl": "https://www.metacritic.com/tv/welcome-to-wrexham",
+      "summary": "The documentry series follows what happens to a Welsh football (soccer) club and the town it represents when Ryan Renolds and Rob McElhenney becomes owners of the Wrexham Red Dragons in 2020.",
+      "title": "Welcome to Wrexham"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661292000000,
+      "seriesPath": "mo",
+      "title": "Mo"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661292000000,
+      "seriesUrl": "https://www.metacritic.com/tv/mo",
+      "summary": "Palestinian refugee Mo Najjar (Mo Amer)and his family try to adapt to life in in Houston as Mo seeks U.S. Citizenship in this comedy series created by Amer and Ramy Youssef.",
+      "title": "Mo"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661292000000,
+      "seriesPath": "lost-ollie",
+      "title": "Lost Ollie"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Animation",
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661292000000,
+      "seriesUrl": "https://www.metacritic.com/tv/lost-ollie",
+      "summary": "Ollie (voiced by Jonathan Groff), a stuffed rabbit toy and a young boy named Billy (Kesler Talbot) search for each other after they are separated in this live-action/animation hybrid limited series inspired by William Joyce's book Ollie's Odyssey.",
+      "title": "Lost Ollie"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661205600000,
+      "seriesPath": "chad-and-jt-go-deep",
+      "title": "Chad and JT Go Deep"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661205600000,
+      "seriesUrl": "https://www.metacritic.com/tv/chad-and-jt-go-deep",
+      "summary": "After Chad (Tom Allen) and JT (John Parr) get cancelled, they decide to use their activism to gain back support this comedy series produced by Tim Heidecker and Eric Wareheim.",
+      "title": "Chad and JT Go Deep"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661119200000,
+      "seriesPath": "anne-2022",
+      "title": "Anne"
+    },
+    "series": {
+      "distributors": [
+        "ITV",
+        "Acorn TV"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661119200000,
+      "seriesUrl": "https://www.metacritic.com/tv/anne-2022",
+      "summary": "Anne Williams (Maxine Peake) worked for 24 years to prove the death of her 15-year-old-son Kevin at the 1989 FA Cup semi-final wasn't accidental but due to gross negligence by emergency services and faulty designs of the stadium in this miniseries based on real events.\n\n[Premiered originally in the UK on ITV on 2 Jan 2022 and in the US onAnne Williams (Maxine Peake) worked for 24 years to prove the death of her 15-year-old-son Kevin at the 1989 FA Cup semi-final wasn't accidental but due to gross negligence by emergency services and faulty designs of the stadium in this miniseries based on real events.\n\n[Premiered originally in the UK on ITV on 2 Jan 2022 and in the US on Acorn TV on 22 Aug 2022]… Expand",
+      "title": "Anne"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1661032800000,
+      "seriesPath": "house-of-the-dragon",
+      "title": "House of the Dragon"
+    },
+    "series": {
+      "distributors": [
+        "HBO"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Fantasy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1661032800000,
+      "seriesUrl": "https://www.metacritic.com/tv/house-of-the-dragon",
+      "summary": "Set 200 years before the events of “Game of Thrones,” the prequel focuses on House Targaryen that includes King Viserys Targaryen (Paddy Considine), his younger brother Prince Daemon Targaryen (Matt Smith) and the king's daughter Princess Rhaenyra Targaryen (Emma D’Arcy).",
+      "title": "House of the Dragon"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660860000000,
+      "seriesPath": "bad-sisters",
+      "title": "Bad Sisters"
+    },
+    "series": {
+      "distributors": [
+        "APPLE TV+"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660860000000,
+      "seriesUrl": "https://www.metacritic.com/tv/bad-sisters",
+      "summary": "The Garvey sisters (Sharon Horgan, Anne-Marie Duff, Eva Birthistle, Sarah Greene and Eve Hewson) come under suspicion from life insurance investigators after their brother-in-law's death in this dark comedy series from Horgan.",
+      "title": "Bad Sisters"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660860000000,
+      "seriesPath": "echoes",
+      "title": "Echoes"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660860000000,
+      "seriesUrl": "https://www.metacritic.com/tv/echoes",
+      "summary": "Identical twins, Leni and Gina (both played by Michelle Monaghan), have switched lives over the years, but now one is missing in this Australian thriller created by Vanessa Gazy.",
+      "title": "Echoes"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660860000000,
+      "seriesPath": "sprung-2022",
+      "title": "Sprung"
+    },
+    "series": {
+      "distributors": [
+        "Amazon Freevee"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660860000000,
+      "seriesUrl": "https://www.metacritic.com/tv/sprung-2022",
+      "summary": "A group of ex-inmates are released from prison early due to the pandemic and use their skills to target those who took advantage of the underprivileged in this comedy series created by Greg Garcia.",
+      "title": "Sprung"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660773600000,
+      "seriesPath": "the-undeclared-war",
+      "title": "The Undeclared War"
+    },
+    "series": {
+      "distributors": [
+        "Channel 4",
+        "Peacock"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series",
+        "Suspense"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660773600000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-undeclared-war",
+      "summary": "On the first day of work at GCHQ, 21-year-old intern Saara (Hannah Khalique-Brown) sees the beginnings of a cyber war between Russia and the UK in this six-episode limited series thriller created by Peter Kosminsky.",
+      "title": "The Undeclared War"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660773600000,
+      "seriesPath": "she-hulk-attorney-at-law",
+      "title": "She-Hulk: Attorney at Law"
+    },
+    "series": {
+      "distributors": [
+        "Disney+"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660773600000,
+      "seriesUrl": "https://www.metacritic.com/tv/she-hulk-attorney-at-law",
+      "summary": "The latest Marvel dramedy series finds attorney Jennifer Walters (Tatiana Maslany) juggling superhuman legal cases, dating, and the fact she transforms into a 6-foot-7-inch green hulk when she feel anger or fear.",
+      "title": "She-Hulk: Attorney at Law"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660600800000,
+      "seriesPath": "leonardo",
+      "title": "Leonardo"
+    },
+    "series": {
+      "distributors": [
+        "The CW"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660600800000,
+      "seriesUrl": "https://www.metacritic.com/tv/leonardo",
+      "summary": "In 1506, Leonardo da Vinci (Aidan Turner) recounts his life and career under questioning by Stefano Giraldi (Freddie Highmore) in this drama created by Frank Spotnitz and Steve Thompson.",
+      "title": "Leonardo"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660514400000,
+      "seriesPath": "legacy-the-true-story-of-the-la-lakers",
+      "title": "Legacy: The True Story of the LA Lakers"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Sports",
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660514400000,
+      "seriesUrl": "https://www.metacritic.com/tv/legacy-the-true-story-of-the-la-lakers",
+      "summary": "The 10-part documentary series about the 40-year history of the NBA basketball franchise from Antoine Fuqua features interviews from Kareem Abdul-Jabbar, LeBron James, Magic Johnson, Shaquille O’Neal, as well as members of Jerry Buss' family.",
+      "title": "Legacy: The True Story of the LA Lakers"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660428000000,
+      "seriesPath": "tales-of-the-walking-dead",
+      "title": "Tales of the Walking Dead"
+    },
+    "series": {
+      "distributors": [
+        "AMC",
+        "AMC+"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Fantasy",
+        "Horror",
+        "Suspense",
+        "Science Fiction"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660428000000,
+      "seriesUrl": "https://www.metacritic.com/tv/tales-of-the-walking-dead",
+      "summary": "The Walking Dead spinoff anthology series will feature both new and original characters from the zombie series.",
+      "title": "Tales of the Walking Dead"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660255200000,
+      "seriesPath": "children-of-the-underground",
+      "title": "Children of the Underground"
+    },
+    "series": {
+      "distributors": [
+        "FX"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660255200000,
+      "seriesUrl": "https://www.metacritic.com/tv/children-of-the-underground",
+      "summary": "The five-part documentary series about Faye Yager and the network of people and safe houses she used to help hundreds of mothers and children hide from alleged abusers.",
+      "title": "Children of the Underground"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660255200000,
+      "seriesPath": "this-fool",
+      "title": "This Fool"
+    },
+    "series": {
+      "distributors": [
+        "HULU"
+      ],
+      "genres": [
+        "Comedy"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660255200000,
+      "seriesUrl": "https://www.metacritic.com/tv/this-fool",
+      "summary": "30-year-old Julio Lopez (Chris Estrada) lives with his parents, is dating his high school girlfriend and works at a gang rehabilitation nonprofit called Hugs Not Thugs in this comedy inspired by Estrada's life.",
+      "title": "This Fool"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660255200000,
+      "seriesPath": "five-days-at-memorial",
+      "title": "Five Days At Memorial"
+    },
+    "series": {
+      "distributors": [
+        "APPLE TV+"
+      ],
+      "genres": [
+        "Drama",
+        "Movie/Mini-Series"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660255200000,
+      "seriesUrl": "https://www.metacritic.com/tv/five-days-at-memorial",
+      "summary": "The miniseries adaptation of Sheri Fink's non-fiction book of the same name centers on the five days after Hurricane Katrina hit New Orleans and the decisions medical staff had to make at Memorial Medical Center.",
+      "title": "Five Days At Memorial"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660255200000,
+      "seriesPath": "cosmic-love",
+      "title": "Cosmic Love"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Reality"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660255200000,
+      "seriesUrl": "https://www.metacritic.com/tv/cosmic-love",
+      "summary": "Four singles seek to find love among 16 other singles based on astrological advice from the Astro Chamber (voiced by Cree Summer) and astrologers Ophira and Tali Edut on this reality dating series.",
+      "title": "Cosmic Love"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660255200000,
+      "seriesPath": "a-league-of-their-own-2022",
+      "title": "A League of Their Own"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "metascore": 84,
+      "releaseDate": 1660255200000,
+      "seriesUrl": "https://www.metacritic.com/tv/a-league-of-their-own-2022",
+      "summary": "The comedy series from Abbi Jacobson and Will Graham about the 1940s All-American Girls Professional Baseball League is a reimagining of Penny Marshall's 1992 film of the same name.",
+      "title": "A League of Their Own"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660168800000,
+      "seriesPath": "bump",
+      "title": "Bump"
+    },
+    "series": {
+      "distributors": [
+        "The CW",
+        "BBC One",
+        "Stan"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660168800000,
+      "seriesUrl": "https://www.metacritic.com/tv/bump",
+      "summary": "All of 17-year-old Olympia \"Oly\" Chalmers-Davis' plans are changed when she discovers she is pregnant in this Australian comedy-drama series.\n\n[Premiered originally in Australia on Stan on 1 Jan 2021, in the UK on BBC One on 20 Oct 2021 and in the US on the CW on 11 Aug 2022]",
+      "title": "Bump"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1660082400000,
+      "seriesPath": "i-am-groot",
+      "title": "I Am Groot"
+    },
+    "series": {
+      "distributors": [
+        "Disney+"
+      ],
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1660082400000,
+      "seriesUrl": "https://www.metacritic.com/tv/i-am-groot",
+      "summary": "An animated shorts series featuring Baby Groot (voiced by Vin Diesel) as he grows up and causes mischief.",
+      "title": "I Am Groot"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659996000000,
+      "seriesPath": "password-2022",
+      "title": "Password"
+    },
+    "series": {
+      "distributors": [
+        "NBC"
+      ],
+      "genres": [
+        "Reality",
+        "Game Show"
+      ],
+      "metascore": 84,
+      "releaseDate": 1659996000000,
+      "seriesUrl": "https://www.metacritic.com/tv/password-2022",
+      "summary": "Keke Palmer hosts this revival of the game show where contestants are paired with Jimmy Fallon and other celebrities as they seek to guess the secret password with only one-word clues to win up to $25,000.",
+      "title": "Password"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659996000000,
+      "seriesPath": "i-just-killed-my-dad",
+      "title": "I Just Killed My Dad"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1659996000000,
+      "seriesUrl": "https://www.metacritic.com/tv/i-just-killed-my-dad",
+      "summary": "The three-part documentary series directed by Skye Borgman uses archival news footage, police interrogation tapes; home video and audio; and interviews with law enforcement officials, family members and Anthony Templet, who confessed to killing his father, to examine the events that led to the shooting in 2019.",
+      "title": "I Just Killed My Dad"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659823200000,
+      "seriesPath": "my-life-as-a-rolling-stone",
+      "title": "My Life as a Rolling Stone"
+    },
+    "series": {
+      "distributors": [
+        "BBC",
+        "EPIX"
+      ],
+      "genres": [
+        "Movie/Mini-Series",
+        "Documentary",
+        "Music"
+      ],
+      "metascore": 83,
+      "releaseDate": 1659823200000,
+      "seriesUrl": "https://www.metacritic.com/tv/my-life-as-a-rolling-stone",
+      "summary": "Mick Jagger, Keith Richards, Ronnie Wood, and the late Charlie Watts are the focus of this four-part documentary directed by Oliver Murray and Clare Tavernor.\n\n[Set to premiere in the UK on BBC Two on 2 Jul 2022; in the US on Epix on 7 Aug 2022]",
+      "title": "My Life as a Rolling Stone"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659650400000,
+      "seriesPath": "the-sandman",
+      "title": "The Sandman"
+    },
+    "series": {
+      "distributors": [
+        "Netflix"
+      ],
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "metascore": 83,
+      "releaseDate": 1659650400000,
+      "seriesUrl": "https://www.metacritic.com/tv/the-sandman",
+      "summary": "Morpheus/Dream (Tom Sturridge) escapes from a 100+ years sleep and seeks to revive his kingdom in this series adaptation of Neil Gaiman's comic book series of the same name.",
+      "title": "The Sandman"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659564000000,
+      "seriesPath": "mike-judges-beavis-and-butt-head",
+      "title": "Mike Judge's Beavis and Butt-Head"
+    },
+    "series": {
+      "distributors": [
+        "Paramount+"
+      ],
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "metascore": 83,
+      "releaseDate": 1659564000000,
+      "seriesUrl": "https://www.metacritic.com/tv/mike-judges-beavis-and-butt-head",
+      "summary": "Beavis and Butt-Head are back in the reboot of the Mike Judge animated comedy  that is already promised a second season on Paramount+.",
+      "title": "Mike Judge's Beavis and Butt-Head"
+    }
+  },
+  {
+    "season": {
+      "season": 1,
+      "seasonPath": "season-1",
+      "seasonRelease": 1659564000000,
+      "seriesPath": "all-or-nothing-arsenal",
+      "title": "All or Nothing: Arsenal"
+    },
+    "series": {
+      "distributors": [
+        "Prime Video"
+      ],
+      "genres": [
+        "Sports",
+        "Reality",
+        "Documentary"
+      ],
+      "metascore": 83,
+      "releaseDate": 1659564000000,
+      "seriesUrl": "https://www.metacritic.com/tv/all-or-nothing-arsenal",
+      "summary": "The documentary series follows the London-based soccer/football club Arsenal during the 2021-22 season as they play before fans again after a COVID-19 pandemic-interrupted season.",
+      "title": "All or Nothing: Arsenal"
+    }
+  }
+]
