@@ -33,6 +33,7 @@ module.exports = async seriesPath => {
     genres,
     metascore,
     releaseDate,
+    seriesPath,
     seriesUrl: url.href,
     summary,
     title
